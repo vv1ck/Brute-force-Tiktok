@@ -1,7 +1,7 @@
 # Brute-force-Tiktok
 
 <img src="https://h.top4top.io/p_2096joa671.jpeg"></img>
-Guess the password for Tik Tok accounts
+<h4>Guess the password for Tik Tok accounts</h4>
 - 
 Tool features :
 - You don't need proxies
