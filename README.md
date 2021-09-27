@@ -7,9 +7,9 @@ Tool features :
 - You don't need proxies
 - There is no captcha
 - Running on a private api
+- Combo Type: email:pass
 - It works on all devices
 - Unfortunately it's a little slow
--
 -----------------------
 install in kali linux :
 <!--START_SECTION:waka-->
@@ -31,5 +31,9 @@ How do I operate the tool? :
 python3 Brute-force-tiktok.py
 ```
 <!--END_SECTION:waka-->
+- Now enter the type of your device, if it is a phone, put the number 2, if it is a computer, put the number 1
+- Then enter the name of the combo list file and press enter
+---------------------
+- Note: The combo is a file that contains a group of accounts combined with passwords [username:password]
 ---------------------
 By Joker 
