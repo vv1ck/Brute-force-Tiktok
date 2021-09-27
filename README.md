@@ -1,5 +1,4 @@
-<img src="https://h.top4top.io/p_2096joa671.jpeg">
--
+# Brute-force-Tiktok
 Guess the password for Tik Tok accounts
 - 
 Tool features :
