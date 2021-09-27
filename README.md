@@ -12,3 +12,24 @@ Tool features :
 -
 -----------------------
 install in kali linux :
+<!--START_SECTION:waka-->
+```
+sudo git clone https://github.com/vv1ck/Brute-force-Tiktok
+```
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+```
+cd Brute-force-Tiktok
+```
+<!--END_SECTION:waka-->
+-----------------------
+How do I operate the tool? :
+- Now that we have downloaded it and opened the tool folder, put the combo file in the same folder
+- After this, run the tool as follows :
+<!--START_SECTION:waka-->
+```
+python3 Brute-force-tiktok.py
+```
+<!--END_SECTION:waka-->
+---------------------
+By Joker 
