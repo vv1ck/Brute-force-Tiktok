@@ -36,4 +36,6 @@ python3 Brute-force-tiktok.py
 ---------------------
 - Note: The combo is a file that contains a group of accounts combined with passwords [username:password]
 ---------------------
-By Joker 
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
+-
+see 
