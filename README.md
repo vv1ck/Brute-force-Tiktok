@@ -28,7 +28,7 @@ How do I operate the tool? :
 - After this, run the tool as follows :
 <!--START_SECTION:waka-->
 ```
-python3 Brute-force-tiktok.py
+python3 start.py
 ```
 <!--END_SECTION:waka-->
 - Now enter the type of your device, if it is a phone, put the number 2, if it is a computer, put the number 1
